@@ -19,7 +19,7 @@ public MyFirstDemoClass() {
 }
 
 
-@SuppressWarnings("unused")
+//@SuppressWarnings("unused")
 private static void MyFirstDemoMethod() {
 
 System.out.println("MyFirstDemoMethod");
