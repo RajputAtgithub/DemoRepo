@@ -20,7 +20,7 @@ public MyFirstDemoClass() {
 
 
 //@SuppressWarnings("unused")
-private static void MyFirstDemoMethod() {
+public static void MyFirstDemoMethod() {
 
 System.out.println("MyFirstDemoMethod");
 
