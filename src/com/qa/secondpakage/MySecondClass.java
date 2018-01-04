@@ -7,10 +7,12 @@ package com.qa.secondpakage;
  *         Created Jan 1, 2018.
  */
 public class MySecondClass {
+	
 	/**
 	 * TODO Put here a description of what this constructor does.
 	 *
 	 */
+	
 	public MySecondClass() {
 		// TODO Auto-generated constructor stub.
 		System.out.println("My Second Class constructor");
